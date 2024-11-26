@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tjiycc1fx-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tjiycc1fx-go-gitops
